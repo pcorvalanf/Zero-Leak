@@ -1,0 +1,1 @@
+Sistema IoT para la monitorización y optimización energética de HVAC mediante Raspberry Pi, Modbus RTU, BLE, AWS PostgreSQL y Grafana. Detecta pérdidas energéticas por puertas y ventanas abiertas y aplica medidas automáticas de ahorro.
